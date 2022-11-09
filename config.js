@@ -17,7 +17,7 @@
 // • Xtreshe
 // • Dll
 
-//[!] Jangan Lupa Ganti Ownernya
+//[!] Jangan Lupa Ganti Ownernya.
 
 import { watchFile, unwatchFile } from 'fs'
 import chalk from 'chalk'
